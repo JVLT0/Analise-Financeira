@@ -22,6 +22,6 @@ O relatório apresenta painéis dinâmicos que permitem:
 - Comparar o desempenho de diferentes segmentos de mercado 
 
 ## 📥 Como Acessar
-- Baixe o arquivo .pbix do repositório  
-- Abra no Power BI Desktop  
-- Explore os painéis interativos
+1. Baixe o arquivo .pbix do repositório
+2. Abra no Power BI Desktop
+3. Explore os painéis interativos
